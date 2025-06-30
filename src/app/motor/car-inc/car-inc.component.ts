@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CarIncComponent {
 
+  public getCarDetails:any
+
 }
