@@ -13,6 +13,7 @@ public getCarDetails:any;
   }
 
   getBikeDetail(){
-    return "Hello";
+    return null;
   }
+
 }
