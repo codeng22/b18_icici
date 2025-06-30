@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class BikeIncComponent {
 
+public getCarDetails:any;
+  getMoreBikeDetails(){
+    return undefined;
+  }
+
+  getBikeDetail(){
+    return "Hello";
+  }
 }
